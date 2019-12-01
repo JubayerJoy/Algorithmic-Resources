@@ -1,0 +1,8 @@
+title: Awesome-competitive-coding
+description: A Curated list of Topic wise Theory and Questions to Get You Started On Competitive Coding.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
